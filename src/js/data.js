@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
               // Isi elemen div dengan informasi dari entri
               div.innerHTML = `
-                  <div class="md:m-5 p-5 shadow-xl rounded-lg grid md:grid-cols-2 grid-cols-1 bg-white">
+                  <div class="m-5 p-5 shadow-xl rounded-lg grid md:grid-cols-2 grid-cols-1 bg-white">
                   <div class="my-auto mx-auto">
                   <img src="https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg" alt="winners" class="w-full">
                   </div>
