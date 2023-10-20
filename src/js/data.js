@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
               div.innerHTML = `
                   <div class="m-5 p-5 shadow-xl rounded-lg grid md:grid-cols-2 grid-cols-1 bg-white">
                   <div class="my-auto mx-auto">
-                  <img src="https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg" alt="winners" class="w-full">
+                  <img src=${entry.gambar} alt="winners" class="w-full">
                   </div>
                   <div class="my-auto mx-5 ">
                     <h3 class="lg:text-xl text-sm font-bold my-2">

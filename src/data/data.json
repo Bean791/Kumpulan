@@ -1,67 +1,75 @@
 [
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar":"https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg",
+        "Judul": "HTML Coding For Beginners Course: Learn HTML in 1 Hour",
+        "Oleh": "BitDegree",
+        "Masa": "Dec 2021",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": 3164039,
+        "link": "https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar":"/src/Images/1.png",
+        "Judul": "Scientific Computing with Python",
+        "Oleh": "freeCodeCamp",
+        "Masa": "Dec 2021",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "-",
+        "link": "https://freecodecamp.org/certification/fcc1ba2635d-9c03-4d3d-9849-2a0a0046a397/scientific-computing-with-python-v7"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar": "src/Images/2.jpg",
+        "Judul": "Mengenal Pemrograman Komputer",
+        "Oleh": "CodePolitan",
+        "Masa": "Dec 2021",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "I94UPEK",
+        "link": "https://apps.codepolitan.com/achievement/detail/I94UPEK"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar": "src/Images/3.png",
+        "Judul": "Algoritma dan Pemrograman Dasar",
+        "Oleh": "CodePolitan",
+        "Masa": "Dec 2021",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "62MKTRN",
+        "link": "https://www.codepolitan.com/c/62MKTRN"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar": "src/Images/4.png",
+        "Judul": " Dasar-dasar HTML dan CSS",
+        "Oleh": "CodePolitan",
+        "Masa": "Dec 2021",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "V1WUHES",
+        "link": "https://www.codepolitan.com/c/V1WUHES"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar":"src/Images/5.png",
+        "Judul": "Responsive Web Design",
+        "Oleh": "freeCodeCamp",
+        "Masa": "Jan 2022",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "-",
+        "link": "https://freecodecamp.org/certification/fcc1ba2635d-9c03-4d3d-9849-2a0a0046a397/responsive-web-design"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
+        "gambar": "src/Images/6.png",
+        "Judul": "Pemrograman Python untuk pemula ",
+        "Oleh": "CodePolitan",
+        "Masa": "Jan 2022",
         "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "Id": "LZ3HT1D",
+        "link": "https://www.codepolitan.com/c/LZ3HT1D/"
     },
     {
-        "Judul": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At, quae!",
-        "Oleh": "Lorem ipsum dolor sit.",
-        "Masa": "May 2022",
-        "Sampai": "No Expiration Date",
-        "Id": 432432432432,
-        "link": "https://www.bitdegree.org/certificate/11595191"
+        "gambar": "src/Images/7.png",
+        "Judul": "Google Analytics untuk Pemula",
+        "Oleh": "Google analytics",
+        "Masa": "Jan 2022",
+        "Sampai": "Jan 2025",
+        "Id": "x7f5aJICTVWfgIotLdF1hQ",
+        "link": "https://analytics.google.com/analytics/academy/certificate/x7f5aJICTVWfgIotLdF1hQ"
     }
 
 ]
