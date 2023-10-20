@@ -46,6 +46,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
   };
 
-  xhr.open("GET", "/src/data/data.json", true);
+  xhr.open("GET", "src/data/data.json", true);
   xhr.send();
 });
