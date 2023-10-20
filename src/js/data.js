@@ -16,16 +16,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
               // Isi elemen div dengan informasi dari entri
               div.innerHTML = `
-                  <div class="m-5 p-5 shadow-xl rounded-lg grid grid-cols-2">
-                  <img src="https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg" alt="winners" class="">
+                  <div class="md:m-5 p-5 shadow-xl rounded-lg grid md:grid-cols-2 grid-cols-1">
+                  <div class="my-auto mx-auto">
+                  <img src="https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg" alt="winners" class="w-full">
+                  </div>
                   <div class="my-auto mx-5 ">
-                    <h3 class="text-xl font-bold my-2">
+                    <h3 class="lg:text-xl text-sm font-bold my-2">
                       ${entry.Judul}
                     </h3>
-                    <h4 class="text-lg">
+                    <h4 class="lg:text-lg text-xs">
                       ${entry.Oleh}
                     </h4>
-                    <ul class="text-sm">
+                    <ul class="lg:text-sm text-xxs">
                       <li>
                         Issued ${entry.Masa} - ${entry.Sampai}
                       </li>
@@ -33,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         Credential ID : ${entry.Id}
                       </li>
                     </ul>
-                    <a href=${entry.link} target="_blank" class="text-blue-500">See credential</a>
+                    <a href=${entry.link} target="_blank" class="text-blue-500 lg:text-base text-sm">See credential</a>
                   </div>
                 </div>
               `;
