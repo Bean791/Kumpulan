@@ -9,7 +9,7 @@
         "link": "https://bitdegree-storage.s3.amazonaws.com/certificate-previews/cert-preview11595191.jpeg"
     },
     {
-        "gambar":"/src/Images/1.png",
+        "gambar":"src/Images/1.png",
         "Judul": "Scientific Computing with Python",
         "Oleh": "freeCodeCamp",
         "Masa": "Dec 2021",
