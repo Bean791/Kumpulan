@@ -144,7 +144,7 @@
         "link": "https://www.dicoding.com/certificates/1RXYMYE7QXVM"
     },
     {
-        "gambar": "src/Images/16.png",
+        "gambar": "src/Images/20.png",
         "Judul": "Belajar Dasar Pemrograman Web",
         "Oleh": "Dicoding",
         "Masa": "May 2022",
@@ -153,7 +153,7 @@
         "link": "https://www.dicoding.com/certificates/6RPNDKQ95Z2M"
     },
     {
-        "gambar": "src/Images/17.png",
+        "gambar": "src/Images/16.png",
         "Judul": "HTML",
         "Oleh": "Sololearn",
         "Masa": "Jun 2022",
@@ -162,7 +162,7 @@
         "link": "https://www.sololearn.com/Certificate/1014-25956746/jpg"
     },
     {
-        "gambar": "src/Images/18.png",
+        "gambar": "src/Images/17.png",
         "Judul": "Belajar Membuat Front-End Web untuk Pemula",
         "Oleh": "Dicoding",
         "Masa": "Jun 2022",
@@ -171,13 +171,22 @@
         "link": "https://www.dicoding.com/certificates/07Z6RGO4JPQR"
     },
     {
-        "gambar": "src/Images/19.png",
+        "gambar": "src/Images/18.png",
         "Judul": "Belajar Membuat Aplikasi Web dengan React",
         "Oleh": "Dicoding",
         "Masa": "Jun 2022",
         "Sampai": "Jun 2025",
         "Id": "53XE0N7QKXRN",
         "link": "https://www.dicoding.com/certificates/53XE0N7QKXRN"
+    },
+    {
+        "gambar": "src/Images/21.png",
+        "Judul": "Belajar Dasar Pemrograman JavaScript",
+        "Oleh": "Dicoding",
+        "Masa": "Jun 2022",
+        "Sampai": "Jun 2025",
+        "Id": "KEXLG986RZG2",
+        "link": "https://www.dicoding.com/certificates/KEXLG986RZG2"
     }
 
 ]
