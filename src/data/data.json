@@ -70,6 +70,114 @@
         "Sampai": "Jan 2025",
         "Id": "x7f5aJICTVWfgIotLdF1hQ",
         "link": "https://analytics.google.com/analytics/academy/certificate/x7f5aJICTVWfgIotLdF1hQ"
-    }
+    },
+    {
+        "gambar": "src/Images/8.png",
+        "Judul": "Belajar Dasar AWS Cloud",
+        "Oleh": "Dicoding",
+        "Masa": "Jan 2022",
+        "Sampai": "Jan 2025",
+        "Id": "98XWKY9W9XM3",
+        "link": "https://www.dicoding.com/certificates/98XWKY9W9XM3"
+    },
+    {
+        "gambar": "src/Images/9.png",
+        "Judul": "GIT untuk Pemula",
+        "Oleh": "CodePolitan",
+        "Masa": "Jan 2022",
+        "Sampai": "No Expiration Date",
+        "Id": "JZ65MSC",
+        "link": "https://www.codepolitan.com/c/JZ65MSC/"
+    },
+    {
+        "gambar": "src/Images/10.png",
+        "Judul": "JavaScript Dasar",
+        "Oleh": "CodePolitan",
+        "Masa": "Feb 2022",
+        "Sampai": "No Expiration Date",
+        "Id": "JTM0LF4",
+        "link": "https://www.codepolitan.com/c/JTM0LF4/"
+    },
+    {
+        "gambar": "src/Images/11.png",
+        "Judul": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+        "Oleh": "Dicoding",
+        "Masa": "Mar 2022",
+        "Sampai": "Mar 2025",
+        "Id": "JLX13MNDJP72",
+        "link": "https://www.dicoding.com/certificates/JLX13MNDJP72"
+    },
+    {
+        "gambar": "src/Images/12.png",
+        "Judul": "Belajar Membuat Augmented Reality dengan Lens Studio",
+        "Oleh": "Dicoding",
+        "Masa": "Apr 2022",
+        "Sampai": "Apr 2025",
+        "Id": "KEXLGEQGRZG2",
+        "link": "https://www.dicoding.com/certificates/KEXLGEQGRZG2"
+    },
+    {
+        "gambar": "src/Images/13.png",
+        "Judul": "JavaScript Algorithms and Data Structures",
+        "Oleh": "freeCodeCamp",
+        "Masa": "May 2022",
+        "Sampai": "No Expiration Date",
+        "Id": "-",
+        "link": "https://freecodecamp.org/certification/fcc1ba2635d-9c03-4d3d-9849-2a0a0046a397/javascript-algorithms-and-data-structures"
+    },
+    {
+        "gambar": "src/Images/14.png",
+        "Judul": "Crash Course on Python",
+        "Oleh": "Coursera",
+        "Masa": "May 2022",
+        "Sampai": "May 2025",
+        "Id": "TEMS2HEYJSNX",
+        "link": "https://www.coursera.org/account/accomplishments/certificate/TEMS2HEYJSNX"
+    },
+    {
+        "gambar": "src/Images/15.png",
+        "Judul": "Belajar Machine Learning untuk Pemula",
+        "Oleh": "Dicoding",
+        "Masa": "May 2022",
+        "Sampai": "May 2025",
+        "Id": "1RXYMYE7QXVM",
+        "link": "https://www.dicoding.com/certificates/1RXYMYE7QXVM"
+    },
+    {
+        "gambar": "src/Images/16.png",
+        "Judul": "Belajar Dasar Pemrograman Web",
+        "Oleh": "Dicoding",
+        "Masa": "May 2022",
+        "Sampai": "May 2025",
+        "Id": "6RPNDKQ95Z2M",
+        "link": "https://www.dicoding.com/certificates/6RPNDKQ95Z2M"
+    },
+    {
+        "gambar": "src/Images/17.png",
+        "Judul": "HTML",
+        "Oleh": "Sololearn",
+        "Masa": "Jun 2022",
+        "Sampai": "No Expiration Date",
+        "Id": "1014-25956746",
+        "link": "https://www.sololearn.com/Certificate/1014-25956746/jpg"
+    },
+    {
+        "gambar": "src/Images/18.png",
+        "Judul": "Belajar Membuat Front-End Web untuk Pemula",
+        "Oleh": "Dicoding",
+        "Masa": "Jun 2022",
+        "Sampai": "Jun 2025",
+        "Id": "07Z6RGO4JPQR",
+        "link": "https://www.dicoding.com/certificates/07Z6RGO4JPQR"
+    },
+    {
+        "gambar": "src/Images/19.png",
+        "Judul": "Belajar Membuat Aplikasi Web dengan React",
+        "Oleh": "Dicoding",
+        "Masa": "Jun 2022",
+        "Sampai": "Jun 2025",
+        "Id": "53XE0N7QKXRN",
+        "link": "https://www.dicoding.com/certificates/53XE0N7QKXRN"
+    },
 
 ]
